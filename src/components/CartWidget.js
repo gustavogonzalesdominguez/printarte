@@ -1,7 +1,7 @@
 import logoIcon from "./img/carrito1.png";
 const styles = {
     imagenLogo: {
-        width: "30px"
+        width: "40px"
     }
 }
 const CartWidget = () => {
